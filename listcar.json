@@ -1,0 +1,50 @@
+[
+   {
+      "Nombre": "Audi R8",
+      "Fabricante": "Audi",
+      "Precio": 180000,
+      "Pais": "Alemania",
+      "Caracteristicas": "Motor V10, 602 hp, 0-100 km/h en 3.2s",
+      "ImagenUrl": "https://www.diariomotor.com/imagenes/2018/11/audi-r8-azul-vista-delantera-lateral-593545-1280x959.jpg"
+   },
+   {
+      "Nombre": "Ford Mustang GT",
+      "Fabricante": "Ford",
+      "Precio": 55000,
+      "Pais": "Estados Unidos",
+      "Caracteristicas": "Motor V8, 450 hp, deportivo clásico",
+      "ImagenUrl": "https://sportscarhangar.com.au/uploads/images/vehicles/_header/mustang-black-main.jpg"
+   },
+   {
+      "Nombre": "Porsche 911 Carrera S",
+      "Fabricante": "Porsche",
+      "Precio": 135000,
+      "Pais": "Alemania",
+      "Caracteristicas": "Motor bóxer turbo de 3.0L, 443 hp, manejo excepcional.",
+      "ImagenUrl": "https://menify.com/wp-content/uploads/2019/01/porsche-911-carrera-s-2019.jpg"
+   },
+   {
+      "Nombre": "Toyota Supra",
+      "Fabricante": "Toyota",
+      "Precio": 51000,
+      "Pais": "Japón",
+      "Caracteristicas": "Motor turbo de 3.0L, 382 hp, tracción trasera, diseño agresivo.",
+      "ImagenUrl": "https://i.gaw.to/vehicles/photos/40/29/402977-2023-toyota-gr-supra.jpg"
+   },
+   {
+      "Nombre": "Chevrolet Corvette C8",
+      "Fabricante": "Chevrolet",
+      "Precio": 95000,
+      "Pais": "Estados Unidos",
+      "Caracteristicas": "Motor central V8, 490 hp, convertible disponible, alto rendimiento.",
+      "ImagenUrl": "https://wallpapercave.com/wp/wp4530056.jpg"
+   },
+   {
+      "Nombre": "Tesla Model S Plaid",
+      "Fabricante": "Tesla",
+      "Precio": 105000,
+      "Pais": "Estados Unidos",
+      "Caracteristicas": "Motor tri-motor eléctrico, 1020 hp, 0-100 km/h en 2.1s, totalmente eléctrico.",
+      "ImagenUrl": "https://motorguru.ae/wp-content/uploads/2024/07/2024-tesla-model-s-107-6572200e43fa1.jpg"
+   }
+]
